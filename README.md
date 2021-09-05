@@ -9,10 +9,11 @@
 <p align="center">
 <table align="center">
 
- ![Forks][forks-shield]
- ![Stargazers][stars-shield]
- ![Issues][issues-shield]
- ![MIT License][license-shield]
+ [![Contributors][contributors-shield]][contributors-url]
+ [![Forks][forks-shield]][forks-url]
+ [![Stargazers][stars-shield]][stars-url]
+ [![Issues][issues-shield]][issues-url]
+ [![MIT License][license-shield]][license-url]
  <br>
 
 </div>
