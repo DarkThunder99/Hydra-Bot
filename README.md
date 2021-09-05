@@ -29,6 +29,23 @@
 ## Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or Newer
+  
+## 💨 Run the projects
+
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/DarkThunder99/Hydra-Bot)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DarkThunder99/Hydra-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkThunder99/Hydra-Bot)
+
+## 🚀 Getting Started
+
+## 💻 Installation
+
+To Install Packages needed for the Bot, Go to Console and Type 
+```
+npm install
+```
+or Run the `install.bat` File
+
 
 ### Bot Features:
 ```
