@@ -77,9 +77,9 @@ Go to `config-example.json` and Change it's Name to `config.json` and Fill This
 	"give": "",
 	"givee": "",
 	"music": ":musical_note:",
-  "id": "",
-  "uno": "",
-  "dot": "",
+	"id": "",
+	"uno": "",
+	"dot": "",
 	"loading": "",
 	"boost": ""
 }
@@ -89,7 +89,7 @@ Go to `config-example.json` and Change it's Name to `config.json` and Fill This
 
 Open Console and Type
 ```
-node .
+node index.js
 ```
 or You can Run start.sh File to Start the Bot
 
@@ -130,3 +130,9 @@ or You can Run start.sh File to Start the Bot
 [issues-url]: https://github.com/DarkThunder99/Hydra-Bot/issues
 [license-shield]: https://img.shields.io/github/license/DarkThunder99/Hydra-Bot.svg?style=for-the-badge
 [license-url]: https://github.com/DarkThunder99/Hydra-Bot/blob/master/LICENSE
+
+1. [Fork the repository](https://github.com/DarkThunder99/Bot-with-Dashboard/fork)
+2. Clone your fork: `git clone https://github.com/DarkThunder99/Bot-with-Dashboard.git`
+
+## 📝 Credits
+Hydra is Made by DarkThunder (me)
