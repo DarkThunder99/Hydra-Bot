@@ -115,16 +115,25 @@ or You can Run start.sh File to Start the Bot
 
 ### Bot Features:
 ```
-🔋 24/7 Full Uptime with high stability
-```
-```
 👮‍♂️ Powerful Moderation Commands
 ```
 ```
-😀 Easy to use
+🎉 Giveaway Commands
 ```
 ```
-☄️ Fast command responses
+🤣 Fun Commands
+```
+```
+☄️ Mini Games Commands
+```
+```
+🌟 Information Commands
+```
+```
+✔️ Utility Commands
+```
+```
+🤖 Chat Bot Commands
 ```
 
 ### Important Note:
