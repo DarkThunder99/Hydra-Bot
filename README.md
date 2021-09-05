@@ -17,14 +17,13 @@
  <br>
 
 </div>
-
+	
 ---
 
 <h2 align="center">What is this bot?</h2>
 
 <strong><a href="https://dsc.gg/Hydra9">Hydra</a></strong> is an easy to use Multi-purpose bot and it has a Free open source code to setup your own Hydra bot to your own server. Our goal is to cover as many functionalities as possible.
 
----
 
 ## Requirements
 Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
@@ -141,8 +140,6 @@ If met any issues, go [here](https://github.com/DarkThunder099/Hydra-Bot/issues)
 ## Github Repository
 
 Hydra Made by DarkThunder, project [Here](https://github.com/DarkThunder099/Hydra-Bot)
-
----
 
 [support-invite]: https://dsc.gg/gcafe
 
