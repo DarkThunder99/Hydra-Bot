@@ -47,8 +47,45 @@ or Run the `install.bat` File
   
 
 ## ⚙️ Configuration
-
+  
 ⚠️ **Note: Never commit or share your Token or API Keys Publicly** ⚠️
+  
+Go to `config-example.json` and Change it's Name to `config.json` and Fill This 
+  ```
+  {
+    "prefix": "?",
+    "token": "Your Discord Bot Token",
+    "tenorAPI": "Tenor API Key",
+    "AME_API": "AME API Key",
+    "Google_API": "Google API Key",
+    "ytapi": "Youtube API Key",
+    "owner": "Your Discord ID",
+    "suggestionchannel": ""
+  }
+  ```
+  Now Fill `emojis.json`
+  ```
+  {
+	"yes": "",
+	"no": "",
+	"info": "",
+	"dbl": "",
+	"sup": "",
+	"fun": "",
+	"giveaway":"",
+	"game": "",
+	"mod": "",
+	"eco": "",
+	"image": "",
+	"give": "",
+	"givee": "",
+	"music": ":musical_note:",
+  "id": "",
+  "uno": "",
+  "dot": "",
+	"loading": "",
+	"boost": ""
+}```
 
 ## ☄️ Starting the Bot
 
