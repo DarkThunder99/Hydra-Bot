@@ -46,8 +46,23 @@ or Run the `install.bat` File
 ## ⚙️ Configuration
   
 ⚠️ **Note: Never commit or share your Token or API Keys Publicly** ⚠️
+
+### `config.json` config table
+| `config.json` varriable | Description | Required |
+|---|---|---|
+| TOKEN | The bot token (Remember! The `TOKEN` is super secret) | :heavy_check_mark: |
+| PREFIX | The default bot prefix (eg. `?`) | :heavy_check_mark: |
+| Tenor API | Tenor API Key | :heavy_check_mark: |
+| [AMEAPI](https://api.amethyste.moe/) | Your Amethyste api token | :heavy_check_mark: |
+| Google API | Google API Key | :heavy_check_mark: |
+| Youtube API Key | Youtube V3 API Key | :heavy_check_mark: |
+| Owner ID | Your Discord ID | :heavy_check_mark: |
+| Suggestion Channel ID |  | :x: |
   
-Go to `config-example.json` and Change it's Name to `config.json` and Fill This 
+### Example `config.json` file
+ 
+[`config.json`](https://github.com/DarkThunder99/Hydra-Bot/blob/master/config/config-example.json)
+
   ```
   {
     "prefix": "?",
