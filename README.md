@@ -15,7 +15,7 @@
 	
 ---
 
-<h2>What is this bot?</h2>
+<h2align="left">What is this bot?</h2>
 
 <strong><a href="https://dsc.gg/Hydra9">Hydra</a></strong> is an easy to use Multi-purpose bot and it has a Free open source code to setup your own Hydra bot to your own server. Our goal is to cover as many functionalities as possible.
 
@@ -80,7 +80,8 @@ Go to `config-example.json` and Change it's Name to `config.json` and Fill This
   "dot": "",
 	"loading": "",
 	"boost": ""
-}```
+}
+```
 
 ## ☄️ Starting the Bot
 
