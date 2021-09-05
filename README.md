@@ -22,7 +22,7 @@
 <strong><a href="https://dsc.gg/Hydra9">Hydra</a></strong> is a Multi Purpose Discord Bot, Invite Hydra to your Discord Server to make your Server Cooler, We are Trying our Best to Add as Many Features we can in Hydra so you don't Need to Invite Another Bot.
 
 
-## Requirements
+## 🔮 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or Newer
 3. Some API Keys
@@ -136,7 +136,7 @@ or You can Run start.sh File to Start the Bot
 🤖 Chat Bot Commands
 ```
 
-### Important Note:
+### 📜 Important Note:
 ⚠ | Embed links needed for bot embed messages
 
 ⚠ | Admin Permission needed for Moderation commands
