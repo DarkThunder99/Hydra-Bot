@@ -156,6 +156,8 @@ or You can Run start.sh File to Start the Bot
 [license-shield]: https://img.shields.io/github/license/DarkThunder99/Hydra-Bot.svg?style=for-the-badge
 [license-url]: https://github.com/DarkThunder99/Hydra-Bot/blob/master/LICENSE
 
+### 🎀 Clone Repository 
+
 1. [Fork the repository](https://github.com/DarkThunder99/Bot-with-Dashboard/fork)
 2. Clone your fork: `git clone https://github.com/DarkThunder99/Bot-with-Dashboard.git`
 
