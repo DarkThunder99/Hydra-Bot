@@ -5,7 +5,6 @@
   <h3>Version 2.0.0</h3>
 
   <h4>Created by DarkThunder | Powered by <a href="https://discord.js.org/">Discord.js</a></h4>
-  <h4>Do you need a Free 24/7 Discord Hosting? <a href="https://dark-host.xyz">Join now!</a></h4>
   
 <p align="center">
 <table align="center">
@@ -27,8 +26,8 @@
 ---
 
 ## Requirements
-1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. Node.js v12.0.0 or Newer
+Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+Node.js v12.0.0 or Newer
   
 ## 💨 Run the projects
 
@@ -45,7 +44,23 @@ To Install Packages needed for the Bot, Go to Console and Type
 npm install
 ```
 or Run the `install.bat` File
+  
 
+## ⚙️ Configuration
+
+⚠️ **Note: Never commit or share your Token or API Keys Publicly** ⚠️
+
+## ☄️ Starting the Bot
+
+Open Console and Type
+```
+node .
+```
+or You can Run start.sh File to Start the Bot
+
+## 📝 Features & Commands
+
+> Note: The default prefix is '?'
 
 ### Bot Features:
 ```
