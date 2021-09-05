@@ -49,16 +49,16 @@ or Run the `install.bat` File
 
 ### Bot Features:
 ```
-:battery: 24/7 Full Uptime with high stability
+🔋 24/7 Full Uptime with high stability
 ```
 ```
-:cop: Powerful Moderation Commands
+👮‍♂️ Powerful Moderation Commands
 ```
 ```
-:smiley: Easy to use
+😀 Easy to use
 ```
 ```
-:+1: Fast command responses
+☄️ Fast command responses
 ```
 
 ### Important Note:
@@ -68,45 +68,14 @@ or Run the `install.bat` File
 
 <h2 align="center">Self-Hosting & Development</h2>
 
-**We ask you to please not host your own instance of Hydra.** Even though our license allows it, self-hosted instances of the bot have brought us a lot of headache in the past. If you're considering self-hosting, please [try the official instance of the bot first](https://github.com/DarkThunder099/Hydra/#). If you have any concerns about the security of our instance, please contact us. We'd love to talk and answer any questions you have.
+**We ask you to please not host your own instance of Hydra.** Even though our license allows it, Self-Hosted instances of the Bot have Brought us a lot of Headache in the past. If you're considering self-hosting, Please [try the official instance of the bot first](https://github.com/DarkThunder099/Hydra-Bot/#). If you have any concerns about the Security of our instance, Please contact us. We'd love to talk and answer any questions you have.
 
-If you're really really really going to self-host the bot, please [read our license](https://github.com/DarkThunder099/Hydra/blob/master/LICENSE) first, and be aware that we don't provide any self-hosting support. **You'll be on your own.**
+If you're really really really going to Self-host the bot, please [read our license](https://github.com/DarkThunder099/Hydra-Bot/blob/master/LICENSE) First, and be aware that we don't provide any Self-Hosting support. **You'll be on your own.**
 
+### 🌟 Reminders:
 
-## Getting Started
-   <h4>Do you need a free 24/7 Discord Hosting? <a href="https://dsc.gg/gcafe">Join now!</a></h4>
-This is how you will set-up your self-hosted Hydra Bot.
-
-
-### Requirements
-
-Node.js v12.x or upper
-
-### Installation
-Clone the repo
-   ```sh
-   git clone https://github.com/darkthunder099/Hydra.git
-   ```
-Install NPM packages
-   ```sh
-   npm install
-   ```
-Create `config.json` file to the same folder of the Hydra Bot then copy and fill this:
-   ```sh
-   {
-   "prefix": "The Prefix you want to Use",
-   "token": "Token of your Discord Bot",
-   "tenorAPI": "Tenor API Key",
-   "AME_API": "AME Api Key",
-   "Google_API": "Google API Key",
-   "ytapi": "Youtube API Key"
-   }
-   ```
-
-### Reminders:
-
-To get Hydra Ready to run locally, the first step is to clone this repository onto the machine you wish to run it on.
-**Node.js version 12 or newer is recommended to run Hydra Bot since we are using Discord.js v12**
+To get Hydra Ready to Run Locally, the First step is to clone this Repository onto the machine you wish to Run it on.
+**Node.js Version 12 is Recommended to run Hydra Bot since we are using Discord.js v12**
 Use NPM to install the dependencies from the project folder: `npm install`
 Edit/create the file `config.json` (or your hoster's provided environment secret) and insert your bot token in `TOKEN` value.
 Start the bot from the project folder: `node shard.js`
