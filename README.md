@@ -23,9 +23,10 @@
 
 
 ## Requirements
-Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-Node.js v12.0.0 or Newer
-  
+1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+2. Node.js v12.0.0 or Newer
+3. Some API Keys
+
 ## 💨 Run the projects
 
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/DarkThunder99/Hydra-Bot)
