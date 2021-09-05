@@ -9,18 +9,13 @@
 <p align="center">
 <table align="center">
 
- [![Contributors][contributors-shield]][contributors-url]
- [![Forks][forks-shield]][forks-url]
- [![Stargazers][stars-shield]][stars-url]
- [![Issues][issues-shield]][issues-url]
- [![MIT License][license-shield]][license-url]
  <br>
 
 </div>
 	
 ---
 
-<h2 align="center">What is this bot?</h2>
+<h2>What is this bot?</h2>
 
 <strong><a href="https://dsc.gg/Hydra9">Hydra</a></strong> is an easy to use Multi-purpose bot and it has a Free open source code to setup your own Hydra bot to your own server. Our goal is to cover as many functionalities as possible.
 
@@ -118,7 +113,7 @@ or You can Run start.sh File to Start the Bot
 
 ⚠ | Admin Permission needed for Moderation commands
 
-<h2 align="center">Self-Hosting & Development</h2>
+<h2>Self-Hosting & Development</h2>
 
 **We ask you to please not host your own instance of Hydra.** Even though our license allows it, Self-Hosted instances of the Bot have Brought us a lot of Headache in the past. If you're considering self-hosting, Please [try the official instance of the bot first](https://github.com/DarkThunder099/Hydra-Bot/#). If you have any concerns about the Security of our instance, Please contact us. We'd love to talk and answer any questions you have.
 
