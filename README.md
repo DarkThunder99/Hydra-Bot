@@ -21,11 +21,42 @@
 
 <strong><a href="https://dsc.gg/Hydra9">Hydra</a></strong> is a Multi Purpose Discord Bot, Invite Hydra to your Discord Server to make your Server Cooler, We are Trying our Best to Add as Many Features we can in Hydra so you don't Need to Invite Another Bot.
 
-
 ## 🔮 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or Newer
 3. Some API Keys
+
+## 📝 Features & Commands
+
+> Note: The default prefix is '?'
+
+### Bot Features:
+```
+👮‍♂️ Powerful Moderation Commands
+```
+```
+🎉 Giveaway Commands
+```
+```
+🤣 Fun Commands
+```
+```
+☄️ Mini Games Commands
+```
+```
+🌟 Information Commands
+```
+```
+✔️ Utility Commands
+```
+```
+🤖 Chat Bot Commands
+```
+
+### 📡 Powerful Dashboard
+
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/kjAQhLz.png" height="200" width="350"/>
+<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://i.imgur.com/kDwlO3y.png" height="200" width="350"/>
 
 ## 💨 Run the projects
 
@@ -108,33 +139,6 @@ Open Console and Type
 node index.js
 ```
 or You can Run start.sh File to Start the Bot
-
-## 📝 Features & Commands
-
-> Note: The default prefix is '?'
-
-### Bot Features:
-```
-👮‍♂️ Powerful Moderation Commands
-```
-```
-🎉 Giveaway Commands
-```
-```
-🤣 Fun Commands
-```
-```
-☄️ Mini Games Commands
-```
-```
-🌟 Information Commands
-```
-```
-✔️ Utility Commands
-```
-```
-🤖 Chat Bot Commands
-```
 
 ### 📜 Important Note:
 ⚠ | Embed links needed for bot embed messages
