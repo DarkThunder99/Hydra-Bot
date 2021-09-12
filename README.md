@@ -80,7 +80,7 @@ or Run the `install.bat` File
 ⚠️ **Note: Never commit or share your Token or API Keys Publicly** ⚠️
 
 ### `config.json` config table
-| `config.json` varriable | Description | Required |
+| `config.json` variable | Description | Required |
 |---|---|---|
 | TOKEN | The bot token (Remember! The `TOKEN` is super secret) | :heavy_check_mark: |
 | PREFIX | The default bot prefix (eg. `?`) | :heavy_check_mark: |
